@@ -32,11 +32,6 @@ This project is an interactive **Power BI dashboard** that analyzes customer dat
     - 🖼️ `uk_bank_dashboard.png` – Screenshot of the dashboard
   - 📄 `README.md` – Project documentation
 
-
-## 📅 Duration
-
-**May 2025 – June 2025**
-
 ---
 
 ## 👨‍💻 Author
